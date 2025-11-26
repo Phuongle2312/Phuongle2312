@@ -20,7 +20,7 @@
 - 👨‍💻 Passionate about **AI, LLMs, Web & Automation**
 - ⚙ Currently exploring **Gemini, GPT, Web APIs, React**
 - 🎯 My goals: Create smart, fast, futuristic applications
-- 📬 Contact: **your.email@example.com**
+- 📬 Contact: **letriphuong23.12@gmail.com**
 
 ---
 
@@ -67,7 +67,7 @@ _→ Dự án mang phong cách sáng tạo, tương lai_
 ## 🛰 Connect With Me
 
 <p align=“left”>
-<a href=“mailto:your.email@example.com”>
+<a href=“mailto:letriphuong23.12@gmail.com”>
 <img src=“ https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white”; />
 </a>
 </p>
